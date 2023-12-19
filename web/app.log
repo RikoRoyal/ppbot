@@ -1,0 +1,7 @@
+[2023-05-15 16:30:18 +0300] [5393] [INFO] Starting gunicorn 20.1.0
+[2023-05-15 16:30:18 +0300] [5393] [INFO] Listening at: http://127.0.0.1:8000 (5393)
+[2023-05-15 16:30:18 +0300] [5393] [INFO] Using worker: sync
+[2023-05-15 16:30:18 +0300] [5397] [INFO] Booting worker with pid: 5397
+[2023-05-15 16:31:21 +0300] [5393] [INFO] Handling signal: int
+[2023-05-15 16:31:22 +0300] [5393] [WARNING] Worker with pid 5397 was terminated due to signal 2
+[2023-05-15 16:31:22 +0300] [5393] [INFO] Shutting down: Master
